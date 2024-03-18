@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rwnUQFOTBFuBAFB2MTJBJRcY5k5mcuLlPEIqKSue388=",
+  "Source": "demoIdentityServer",
+  "BasePath": "_content/demoIdentityServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

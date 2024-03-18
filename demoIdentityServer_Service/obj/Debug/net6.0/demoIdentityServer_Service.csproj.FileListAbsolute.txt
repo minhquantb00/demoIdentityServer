@@ -1,0 +1,14 @@
+E:\Work\demoIdentityServer\demoIdentityServer_Service\bin\Debug\net6.0\demoIdentityServer_Service.deps.json
+E:\Work\demoIdentityServer\demoIdentityServer_Service\bin\Debug\net6.0\demoIdentityServer_Service.dll
+E:\Work\demoIdentityServer\demoIdentityServer_Service\bin\Debug\net6.0\demoIdentityServer_Service.pdb
+E:\Work\demoIdentityServer\demoIdentityServer_Service\obj\Debug\net6.0\demoIdentityServer_Service.csproj.AssemblyReference.cache
+E:\Work\demoIdentityServer\demoIdentityServer_Service\obj\Debug\net6.0\demoIdentityServer_Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\demoIdentityServer\demoIdentityServer_Service\obj\Debug\net6.0\demoIdentityServer_Service.AssemblyInfoInputs.cache
+E:\Work\demoIdentityServer\demoIdentityServer_Service\obj\Debug\net6.0\demoIdentityServer_Service.AssemblyInfo.cs
+E:\Work\demoIdentityServer\demoIdentityServer_Service\obj\Debug\net6.0\demoIdentityServer_Service.csproj.CoreCompileInputs.cache
+E:\Work\demoIdentityServer\demoIdentityServer_Service\obj\Debug\net6.0\demoIdentityServer_Service.dll
+E:\Work\demoIdentityServer\demoIdentityServer_Service\obj\Debug\net6.0\refint\demoIdentityServer_Service.dll
+E:\Work\demoIdentityServer\demoIdentityServer_Service\obj\Debug\net6.0\demoIdentityServer_Service.pdb
+E:\Work\demoIdentityServer\demoIdentityServer_Service\obj\Debug\net6.0\ref\demoIdentityServer_Service.dll
+E:\Work\demoIdentityServer\demoIdentityServer_Service\bin\Debug\net6.0\demoIdentityServer_Service.runtimeconfig.json
+E:\Work\demoIdentityServer\demoIdentityServer_Service\obj\Debug\net6.0\demoIdentityServer_Service.genruntimeconfig.cache
